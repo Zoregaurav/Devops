@@ -247,5 +247,6 @@ package.json/  ---->Pipeline as a code
 
 jenkinsFile   -->Groovy -----------Scripted Approach
    |                |
-   No Extension    Declarative Approach
+No Extension     Declarative Approach
+
 
