@@ -31,6 +31,7 @@ feature--------->main
 
 
 # Senior Developer:
+
 1.pull the changes from remote master(git pull)
 2.Build
 3.test
@@ -48,12 +49,14 @@ developer pushes code
 testing process
      |
 pull the changes in local
-     |
+     | 
    Build
      |
 run tests(optional)
      |
    Package
+     |
+   Deploy
 
 
 # CI/CD :
@@ -71,7 +74,7 @@ Deveoper pushes code (Pull Req)
   Deploy
 
 
-  # Devops Engineer reate this pipeline 
+  # Devops Engineer create this pipeline 
 
   # bottleneck: choke the pipe
   
