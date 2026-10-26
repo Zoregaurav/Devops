@@ -1,10 +1,15 @@
-  # Doker And Container
+  # Doker And Container:
+
 
   SpringBoot Application
-      |
-   App.jar
+      |        Everything runs fine in my machine...
+   App.jar  
+            code+config+dependencies+Env variable...
 
- 
+
+
+   
+   
  Container
 
  fileSystem view

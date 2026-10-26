@@ -90,17 +90,18 @@ Deployment ->Merge code to master
 Realease--->Code reaches to your user
 
 
-pipeline->predefined sequence of steps that takes our source code to deployment stage
+pipeline->predefined sequence  of steps that takes our source code to deployment stage
 
 
  dev1 dev2 dev3 dev4
   |     |    |    |
     application
+     
 
     Merge conflicts
 
 
-# CI->Your code integrated with master as soon and continously as possible
+# CI->Your code integrated with master as soon and continously as possible 
 
 
  small changes
@@ -108,6 +109,7 @@ pipeline->predefined sequence of steps that takes our source code to deployment 
  Integration
     |
   Pipeline
+
 
   Frequent Integration
     +
@@ -153,6 +155,8 @@ docker image
 Zip image
 
 
+
+
 # Automation Pipeline
 |                   |
 Github Actions    jenkins
@@ -166,12 +170,15 @@ Github Actions    jenkins
   manager        workers
 
 
+
 Application:
                  Job         
 Node Js      Pipeline structure
 springBoot      scheduling
 Django          Manage
                  UI
+
+
 
 
 # controller               Agents
