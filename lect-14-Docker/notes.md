@@ -1,7 +1,7 @@
   # Doker And Container:
 
 
-  SpringBoot Application
+  SpringBoot Application 
       |        Everything runs fine in my machine...
    App.jar  
             code+config+dependencies+Env variable...
